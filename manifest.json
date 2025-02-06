@@ -1,0 +1,11 @@
+{
+    "name": "FocuSound",
+    "version": "1.0",
+    "description": "Plays ambience sound for focused work or NSDR for work breaks.",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icons/lotus-favicon.png"
+    }
+  }
+  
